@@ -1,0 +1,47 @@
+*{
+    margin : 0;
+    padding : 0;
+  
+  }
+  
+  body{
+    display : flex;
+    justify-content : center;
+    align-items : center;
+    padding : 40px
+  }
+  
+  .rectangle{
+    background-color : black;
+    width : 200px;
+    height : 500px;
+    display : flex;
+    flex-direction: column;
+    justify-content : center;
+    align-items : center;
+  }
+  
+  .red{
+    background-color : red;
+    height: 150px;
+    width: 150px;
+    border-radius: 50%;
+    margin : 10%;
+  }
+  
+   .yellow{
+    background-color : yellow;
+    height: 150px;
+    width: 150px;
+    border-radius: 50%;
+    margin : 10%;
+  }
+  
+  .green{
+    background-color : green;
+    height: 150px;
+    width: 150px;
+    border-radius: 50%;
+    margin : 10%;
+  }
+  
